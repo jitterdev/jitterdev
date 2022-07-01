@@ -1,1 +1,1 @@
-[![Jitter's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitterdev)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/jitterdev?template=classic&isocalendar=1&achievements=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FChicago)
